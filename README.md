@@ -1,5 +1,7 @@
 # midi-usb-box
-todo
+tba part list
+
+
 ![637844104465314966](https://user-images.githubusercontent.com/93255373/161239817-a22f2776-54da-45a6-b733-dc5721c037aa.png)
 front
 

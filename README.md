@@ -2,7 +2,7 @@
 
 ### DIY MIDI Stompbox
 This project is a DIY stompbox with 8 different knobs with each individual leds. The connection between Comupert and the box is done via USB. An Arduino Pro Micro is used, which has an ATmega32U4 chip and can therefore be recognized as a MIDI device. <br />
-The bottom row of the leds is static and shows the current status of button (pressed -> on; not pressed -> off). The top row of leds can be addressed individually. For example, when the first key is pressed, it flashes to mimic a record key
+The bottom row of the leds is static and shows the current status of button (pressed -> on; not pressed -> off). The top row of leds can be addressed individually. For example, when the first key is pressed, it flashes to mimic a record key. In addition, buttons 3 and 4 are marked as pageUp/pageDown. This means that you can assign several actions to one button by turning the pages, so to speak.
 
 ### Usage
 Due to its universal midi connection via USB, it can be used as normal midi device in any application. In my case I'm running it with FL Studio 20 to controll effects for my e-guitar.
